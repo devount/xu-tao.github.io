@@ -1,10 +1,26 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Tao's web</title>
-</head>
-<body>
-  <p>This is xu-tao's web</p>
-</body>
-</html>
+---
+layout: default
+---
+
+            
+
+            
+{% if site.education_in_main %}
+{% include education-section.html %}
+{% endif %}
+            
+{% include experience.html %}
+
+{% include career-profile.html %}
+            
+{% include projects.html %}
+
+{% include skills.html %}
+            
+{% include publications.html %}
+
+{% include interests.html %}
+            
+
+
+

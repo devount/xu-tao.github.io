@@ -1,0 +1,25 @@
+{% if site.data.interests %}
+<section class="skills-section section">
+
+  <h2 class="section-title"><i class="fa fa-archive"></i>TEACHING EXPERIENCE</h2>
+
+    {% for class in site.data.interests %}
+    <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ class.name }}</h3>
+      </div><!--//upper-row-->
+
+    </div><!--//meta-->
+
+    <div class="details">
+      <p>{{ class.type }}</p>
+    </div><!--//details-->
+
+  </div><!--//item-->
+    {% endfor %}
+
+</section><!--//skills-section-->
+{% endif %}

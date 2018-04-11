@@ -1,0 +1,43 @@
+intro: ""
+journals:
+  - paper:
+    title: Elders’ fall detection based on biometrics features by the depth camera
+    authors: "Xu, T. Zhou, Y."
+    conference: International Journal of Wavelets, Multiresolution and Information Processing(Accepted)
+  - paper:
+    title: "Fall prediction based on biomechanics equilibrium using Kinect"
+    authors: "Xu, T. Zhou, Y."
+    conference: "International Journal of Distributed Sensor Networks, Vol. 13(4) 2017"
+  - paper:
+    title: "Smart Brain: an Intelligence Context Inference Engine for Context-aware Middleware"
+    authors: "Xu, T. Zhou, Y., David, B., Chalon, R."
+    conference: "the International Journal of Sensor Networks, 22(3):145-157, 2016"
+  - paper:
+    title: "Interaction on-the-go: a fine-grained exploration on wearable PROCAM interfaces and gestures in mobile situations"
+    authors: "Xu, T. Zhou, Y., David, B., Chalon, R."
+    conference: "Universal Access in the Information Society,15(2):1-15, 2015"
+  - paper:
+    title: "Innovative Wearable Interfaces: An Exploratory Analysis of Paper-based Interfaces with Camera-glasses Device Unit"
+    authors: "Xu, T. Zhou, Y., David, B., Chalon, R."
+    conference: "Journal of Personal and Ubiquitous Computing, 18(4):835-849, 2013"
+conferences:
+  - paper:
+    title: "Supporting Activity Context Recognition in Context-aware Middleware"
+    authors: "Xu, T. Zhou, Y., David, B., Chalon, R."
+    conference: "Workshops at the Twenty-Seventh AAAI Conference on Xu, T., Zhou, Y., David, B.Artificial Intelligence (AAAI’13), Bellevue, Washington, USA. (2013)"
+  - paper:
+    title: "AtHoCare: An Intelligent Elder Care at Home System"
+    authors: "Xu, T., Zhou, Y. Ma, Z."
+    conference: "the 18th International Conference on Human-Computer Interaction (HCI’16), Toronto, Canada (2016)"
+  - paper:
+    title: "A context-ware middleware for interaction devices deployment in AmI"
+    authors: "Xu, T., Jin, H., David, B., Chalon, R., Zhou, Y"
+    conference: "the 15th International Conference on Human-Computer Interaction (HCI’13), Las Vegas, Nevada, USA (2013)"
+  - paper:
+    title: "A Context-aware Middleware for Ambient Intelligence"
+    authors: "Xu, T., David, B., Chalon, R., Zhou, Y."
+    conference: "ACM/IFIP/USENIX 12th International Middleware Conference (Middleware 2011), Poster session, Lisbon, Portugal, 2011"
+  - paper:
+    title: "ILiner Regression Models for DCT Domain Approximate Filter and Deblurring"
+    authors: "Hu, W., Zheng, N.N., Xue, J.R., Lan, X. G., Xu, T."
+    conference: "2008 IEEE International Conference on Multimedia & Expo(ICME 2008)"

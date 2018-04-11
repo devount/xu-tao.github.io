@@ -1,0 +1,14 @@
+intro: "Ubiquitous Computing, signal processing, deep learning methods and their applications particularly in:"
+projects:
+  - project:
+    title: 
+    link: "#"
+    tagline: "Heath care in Ambient Intelligent including fall prediction and detection, activity recognition, abnormal detection, etc."
+  - project:
+    title: 
+    link: "#"
+    tagline: "EEG data analysis and BCI design including emotion detection, confusion detection, etc."
+  - project:
+    title: 
+    link: "#"
+    tagline: "MRI image processing including image encoding and reconstruction by deep learning."

@@ -1,0 +1,6 @@
+- class:
+  type: Undergraduate Course
+  name: "C++ programming language"
+- class:
+  type: Graduate Course
+  name: "Cloud Computing"
