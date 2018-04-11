@@ -1,5 +1,6 @@
 intro: ""
 journals:
+
   - paper:
     title: "New Advances and Challenges of Fall Detection Systems: A Survey"
     authors: "Xu, T. Zhou, Y., Zhu, J"
@@ -24,6 +25,7 @@ journals:
     title: "Innovative Wearable Interfaces: An Exploratory Analysis of Paper-based Interfaces with Camera-glasses Device Unit"
     authors: "Zhou, Y., Xu, T., David, B., Chalon, R."
     conference: "Journal of Personal and Ubiquitous Computing, 18(4):835-849, 2013"
+    
 conferences:
   - paper:
     title: "Supporting Activity Context Recognition in Context-aware Middleware"
