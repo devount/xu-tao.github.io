@@ -1,0 +1,45 @@
+{% if site.data.publications %}
+<section class="section publications-section">
+
+  <h2 class="section-title"><i class="fa fa-file-text"></i>SELECTED PUBLICATIONS in</h2>
+
+  {% if site.data.publications.intro %}
+  <div class="intro">
+      <p>{{ site.data.publications.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+  
+  <div class="item">
+	<div class="meta">
+		<div class="upper-row">
+			<h2 class="job-title"><b>Journal:</b></h2>
+		</div><!--//upper-row-->
+	</div>
+  </div>
+
+  {% for publication in site.data.publications.journals %}
+    <div class="item">
+      <div class="publication-title">{{ publication.title }}</div>
+      <div class="publication-authors">{{ publication.authors }}</div>
+      <div class="publication-conference">{{ publication.conference }}</div>
+    </div><!--//item-->
+  {% endfor %}
+  
+  <div class="item">
+	<div class="meta">
+		<div class="upper-row">
+			<h2 class="job-title"><b>Conference:</b></h2>
+		</div><!--//upper-row-->
+	</div>
+  </div>
+  
+  {% for publication in site.data.publications.conferences %}
+    <div class="item">
+      <div class="publication-title">{{ publication.title }}</div>
+      <div class="publication-authors">{{ publication.authors }}</div>
+      <div class="publication-conference">{{ publication.conference }}</div>
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
