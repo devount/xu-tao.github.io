@@ -1,9 +1,13 @@
 intro: ""
 journals:
+- paper:
+    title: New Advances and Challenges of Fall Detection Systems: A Survey
+    authors: "Xu, T. Zhou, Y., Zhu, J"
+    conference: "Applied Science, 8(3) 2018"
   - paper:
     title: Elders’ fall detection based on biometrics features by the depth camera
     authors: "Xu, T. Zhou, Y."
-    conference: International Journal of Wavelets, Multiresolution and Information Processing 
+    conference: "International Journal of Wavelets, Multiresolution and Information Processing,  16(2) 2018"
   - paper:
     title: "Fall prediction based on biomechanics equilibrium using Kinect"
     authors: "Xu, T. Zhou, Y."
