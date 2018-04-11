@@ -1,6 +1,6 @@
 intro: ""
 journals:
-- paper:
+  - paper:
     title: New Advances and Challenges of Fall Detection Systems: A Survey
     authors: "Xu, T. Zhou, Y., Zhu, J"
     conference: "Applied Science, 8(3) 2018"
