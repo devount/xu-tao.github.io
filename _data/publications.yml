@@ -3,22 +3,22 @@ journals:
   - paper:
     title: Elders’ fall detection based on biometrics features by the depth camera
     authors: "Xu, T. Zhou, Y."
-    conference: International Journal of Wavelets, Multiresolution and Information Processing(Accepted)
+    conference: International Journal of Wavelets, Multiresolution and Information Processing 
   - paper:
     title: "Fall prediction based on biomechanics equilibrium using Kinect"
     authors: "Xu, T. Zhou, Y."
-    conference: "International Journal of Distributed Sensor Networks, Vol. 13(4) 2017"
+    conference: "International Journal of Distributed Sensor Networks, 13(4) 2017"
   - paper:
     title: "Smart Brain: an Intelligence Context Inference Engine for Context-aware Middleware"
     authors: "Xu, T. Zhou, Y., David, B., Chalon, R."
     conference: "the International Journal of Sensor Networks, 22(3):145-157, 2016"
   - paper:
     title: "Interaction on-the-go: a fine-grained exploration on wearable PROCAM interfaces and gestures in mobile situations"
-    authors: "Xu, T. Zhou, Y., David, B., Chalon, R."
+    authors: "Zhou, Y., Xu, T., David, B., Chalon, R."
     conference: "Universal Access in the Information Society,15(2):1-15, 2015"
   - paper:
     title: "Innovative Wearable Interfaces: An Exploratory Analysis of Paper-based Interfaces with Camera-glasses Device Unit"
-    authors: "Xu, T. Zhou, Y., David, B., Chalon, R."
+    authors: "Zhou, Y., Xu, T., David, B., Chalon, R."
     conference: "Journal of Personal and Ubiquitous Computing, 18(4):835-849, 2013"
 conferences:
   - paper:
