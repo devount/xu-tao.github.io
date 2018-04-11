@@ -44,6 +44,6 @@ conferences:
     authors: "Xu, T., David, B., Chalon, R., Zhou, Y."
     conference: "ACM/IFIP/USENIX 12th International Middleware Conference (Middleware 2011), Poster session, Lisbon, Portugal, 2011"
   - paper:
-    title: "ILiner Regression Models for DCT Domain Approximate Filter and Deblurring"
+    title: "Liner Regression Models for DCT Domain Approximate Filter and Deblurring"
     authors: "Hu, W., Zheng, N.N., Xue, J.R., Lan, X. G., Xu, T."
     conference: "2008 IEEE International Conference on Multimedia & Expo(ICME 2008)"
