@@ -1,6 +1,6 @@
 - class:
   type: Undergraduate Course
-  name: "C++ programming language"
+  name: "C++ programming language, Deep Learning in Python"
 - class:
   type: Graduate Course
   name: "Cloud Computing"
